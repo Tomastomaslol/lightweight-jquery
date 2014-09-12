@@ -3,7 +3,7 @@
 
 Smallest JQuery clone ever.
 
-This a prototype please dont use this in production.
+This is a prototype please dont use this in production.
 
 ***
 
@@ -11,4 +11,4 @@ This a prototype please dont use this in production.
 
 1. Test cover
 2. IE7 support 
-3. profit
+3. Profit
